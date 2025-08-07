@@ -25,7 +25,7 @@
       <br />Angular
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+      <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="48" height="48" alt="TailwindCSS" />
       <br />Tailwind
     </td>
     <td align="center" width="96">
@@ -33,15 +33,15 @@
       <br />Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+      <img src="https://i.pinimg.com/736x/ab/8b/5e/ab8b5ea6637ebd8e5755c838d952b8c1.jpg" width="48" height="48" alt="Laravel" />
       <br />Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_-q51pPQiLuZf84O0Psnw1dGr1PCd6vMzA&s" width="48" height="48" alt="Symfony" />
       <br />Symfony
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="ExpressJS" />
+      <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="48" height="48" alt="ExpressJS" />
       <br />ExpressJS
     </td>
     <td align="center" width="96">
