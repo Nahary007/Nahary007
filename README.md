@@ -33,7 +33,7 @@
       <br />C++
     </td>
     <td align="center" width="96">
-      <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="48" height="48" alt="Laravel" />
+      <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="48" height="48" alt="Expess" />
       <br />ExpressJS
     </td>
     <td align="center" width="96">
