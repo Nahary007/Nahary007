@@ -88,7 +88,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://masteringjs.io/assets/images/vue/vue-transparent.png" width="48" height="48" alt="VueJS" />
+      <img src="https://e7.pngegg.com/pngimages/229/100/png-clipart-vue-js-full-logo-tech-companies-thumbnail.png" width="48" height="48" alt="VueJS" />
       <br />Vue
     </td>
     <td align="center" width="96">
