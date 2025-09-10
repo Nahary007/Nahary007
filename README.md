@@ -49,7 +49,11 @@
       <br />Node.js
     </td>
   </tr>
-  <tr>
+  <tr>    
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <br />NumPy
+    </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="Node.js" />
       <br />PHP
