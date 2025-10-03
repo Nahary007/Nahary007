@@ -78,10 +78,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br />TypeScript
     </td>
-  </tr>
-</table>
 
-<h2 align="left">📚 Currently Learning</h2>
+    <h2 align="left">📚 Currently Learning</h2>
 
 <blockquote>Libraries and languages I'm currently exploring and improving.</blockquote>
 
@@ -107,6 +105,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
       <br />Flutter
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      <br />Spring Boot
+    </td>
   </tr>
 </table>
 
+  </tr>
+</table>
