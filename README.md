@@ -78,7 +78,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br />TypeScript
     </td>
-
+  </tr>
+</table>
     <h2 align="left">📚 Currently Learning</h2>
 
 <blockquote>Libraries and languages I'm currently exploring and improving.</blockquote>
@@ -112,5 +113,3 @@
   </tr>
 </table>
 
-  </tr>
-</table>
