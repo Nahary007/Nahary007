@@ -1,15 +1,15 @@
 <h1 align="center">
   <a href="https://github.com/Nahary007">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+👋;This+is+Nahary;&center=true&size=30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!;This+is+Nahary;&center=true&size=30" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <strong>Passionate Web Developer</strong> 👨‍💻<br />
+  <strong>Passionate Web Developer</strong> <br />
   I enjoy designing <strong>robust</strong>, <strong>secure</strong>, and <strong>scalable</strong> backend architectures to meet real user needs.
 </p>
 
-<h2 align="left" id="macropower-tech">🛠 Favorite Tech</h2>
+<h2 align="left" id="macropower-tech"> Favorite Tech</h2>
 
 <blockquote>Frameworks, languages, and tools that I like to work with.</blockquote>
 
@@ -76,7 +76,7 @@
     </td>
   </tr>
 </table>
-    <h2 align="left">📚 Currently Learning</h2>
+   <h2 align="left"> Currently Learning</h2>
 
 <blockquote>Libraries and languages I'm currently exploring and improving.</blockquote>
 
@@ -106,6 +106,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
       <br />Spring Boot
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br />C#
+    </td>
   </tr>
 </table>
-
